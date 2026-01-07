@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋🏽 Hi, I'm Louis
 
-<!--
-**ZLouisMiguel/ZLouisMiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at **Rwanda Coding Academy** and a *developer*.  
+I am interested in **Software Engineering**, **Robotics**, and **Artificial Intelligence**.  
+I especially love building things and learning from them.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java" />
+</p>
+
+### Frameworks & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,express,electron" />
+</p>
+
+---
+
+##  Projects
+
+Check out my projects in my repositories, where I blend different languages and frameworks to build awesome stuff.
+
+---
+
+##  Contacts
+```bash
+email: miguellouis2023@gmail.com
