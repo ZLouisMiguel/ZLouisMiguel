@@ -10,12 +10,12 @@ I especially love building things and learning from them.
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,cpp,java" />
 </p>
 
 ### Frameworks & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,express,electron" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,express,electron" />
 </p>
 
 ---
@@ -29,3 +29,5 @@ Check out my projects in my repositories, where I blend different languages and 
 ##  Contacts
 ```bash
 email: miguellouis2023@gmail.com
+instagram: _lou.123/
+```
