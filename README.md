@@ -29,5 +29,5 @@ Check out my projects in my repositories, where I blend different languages and 
 ##  Contacts
 ```bash
 email: miguellouis2023@gmail.com
-instagram: _lou.123/
+instagram: _lou.123
 ```
