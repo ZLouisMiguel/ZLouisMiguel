@@ -4,8 +4,6 @@ I am a student at **Rwanda Coding Academy** and a *developer*.
 I am interested in **Software Engineering**, **Robotics**, and **Artificial Intelligence**.  
 I especially love building things and learning from them.
 
----
-
 ##  Tech Stack
 
 ### Languages
@@ -18,13 +16,8 @@ I especially love building things and learning from them.
   <img src="https://skillicons.dev/icons?i=nodejs,react,express,electron" />
 </p>
 
----
-
 ##  Projects
-
-Check out my projects in my repositories, where I blend different languages and frameworks to build awesome stuff.
-
----
+Check out my most recent project [here](https://wdbasics.netlify.app/)
 
 ##  Contacts
 ```bash
