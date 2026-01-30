@@ -19,6 +19,10 @@ I especially love building things and learning from them.
 ##  Projects
 Check out my most recent project [here](https://wdbasics.netlify.app/)
 
+This one's a long term one 👉🏽 [here](https://github.com/ZLouisMiguel/game-jam-series)
+
+Check out the rest from my github.
+
 ##  Contacts
 ```bash
 email: miguellouis2023@gmail.com
