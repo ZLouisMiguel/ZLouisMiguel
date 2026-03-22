@@ -1,31 +1,29 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&size=25&duration=3000&pause=2000&color=5C75BF&background=FFF9FC25&center=true&vCenter=true&random=true&width=450&lines=%F0%9F%91%8B%F0%9F%8F%BD+Hi%2C+I'm+Louis;fullstack++and+occasional+game+dev)](https://git.io/typing-svg)
+# 👋 Hi, I'm Louis
 
-Student at **Rwanda Coding Academy**, building things I find interesting and learning as I go.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&size=25&duration=3000&pause=2000&color=5C75BF&center=true&vCenter=true&width=500&lines=Full‑stack+developer;Game+dev+enthusiast;Building+things+that+work)](https://git.io/typing-svg)
 
-I'm into **Software Engineering**, **Robotics**, and **AI**, but honestly I just love the part where you make something work from nothing.
+## About Me
+I'm a student at **Rwanda Coding Academy**, passionate about **software engineering**, **robotics**, and **AI**.  
+I love the moment when code turns an idea into something real especially when it's a web app, a game, or a robot.
 
-## Tech Stack
+##  Tech Stack
 
-### Languages
+**Languages**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,html,css,js,cpp,java" />
 </p>
 
-### Frameworks & Tools
+**Frameworks & Tools**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,react,express,electron" />
 </p>
 
-## Projects
+##  Projects
 
-Most recent thing I shipped 👉🏽 [here](https://wdbasics.netlify.app/)
+- **[wdbasics](https://wdbasics.netlify.app/)** : a course I designed to learn web fundamentals.  
+- **[Game Jam Series](https://github.com/ZLouisMiguel/game-jam-series)** : a collection of games I've built during game jams or just for fun, each exploring a different mechanic.  
 
-This one is a long term series I keep adding to 👉🏽 [Game Jam Series](https://github.com/ZLouisMiguel/game-jam-series)
+## Let's Connect
 
-Everything else is on my GitHub, feel free to look around.
-
-## Say hi
-```bash
-email: miguellouis2023@gmail.com
-instagram: _lou.123
-```
+- **Email**: miguellouis2023@gmail.com  
+- **Instagram**: [@_lou.123](https://instagram.com/_lou.123)
