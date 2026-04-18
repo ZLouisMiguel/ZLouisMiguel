@@ -18,10 +18,7 @@ I love the moment when code turns an idea into something real especially when it
   <img src="https://skillicons.dev/icons?i=nodejs,react,express,electron" />
 </p>
 
-##  Projects
-
-- **[wdbasics](https://wdbasics.netlify.app/)** : a course I designed to learn web fundamentals.  
-- **[Game Jam Series](https://github.com/ZLouisMiguel/game-jam-series)** : a collection of games I've built during game jams or just for fun, each exploring a different mechanic.  
+Find my latest project [ici](https://www.npmjs.com/package/hint-errors)
 
 ## Let's Connect
 
