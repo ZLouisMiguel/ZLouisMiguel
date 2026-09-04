@@ -23,4 +23,3 @@ Find my latest project [ici](https://www.npmjs.com/package/hint-errors)
 ## Let's Connect
 
 - **Email**: miguellouis2023@gmail.com  
-- **Instagram**: [@_lou.123](https://instagram.com/_lou.123)
